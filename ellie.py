@@ -17,7 +17,7 @@ def main(page: ft.Page):
             on_click=segredo_ellie,
             width=500,
             color="white",
-            bgcolor="#D1D1D1",
+            bgcolor="#7A7A7A",
         ),
     )
 
