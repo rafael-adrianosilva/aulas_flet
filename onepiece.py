@@ -10,7 +10,6 @@ def main(page: ft.Page):
         ft.Text("Olá meu nome é Luffy."),
         ft.Image(
             src="images/luffy-meat.gif",
-            width=450,
             height=450
         ),
         ft.Button(
