@@ -2,6 +2,7 @@ import flet as ft
 
 
 def main(page: ft.Page):
+    page.bgcolor = "#202020"
     def segredo_ellie(e):
         page.add(
             ft.Text("comi seu bife :)")
